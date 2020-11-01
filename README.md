@@ -8,3 +8,5 @@ linux script has a additional feature of screenshoting whenever smile is detecte
 Dependancies
 Windows-  python3, OpenCV, 
 Ubuntu/debian- python3, OpenCV, pyautogui 
+
+Note: place casscade files in same directory as script before running it
