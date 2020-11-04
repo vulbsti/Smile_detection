@@ -24,5 +24,5 @@ while True:
                 
     if cv2.waitKey(1) & 0xff == ord('e'):                
         break
-video_capture.release()                                  
+video.release()                                  
 cv2.destroyAllWindows() 
